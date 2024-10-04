@@ -1,0 +1,13 @@
+{
+    "life_stage": "",//[puppy, adult, senior]
+    "tag": "",
+    "skv": "",
+    "gtin": "",
+    "delivery": "",
+    "return": "",
+    "replacement": "",
+    "measurement": "",//[quantity or size]
+    "discount_type": "",
+    "pack_size": "",
+    "edible": ""//[boolean]
+}
